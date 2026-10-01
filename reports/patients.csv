@@ -1,0 +1,3 @@
+patient_id,name,department,age,gender,diagnosis,visit_date,patient_type,charges,payment_method,discharge_status,bmi
+101,Aarav Sharma,Cardiology,45,Male,Hypertension,15-09-2026,InPatient,8500,upi,Admitted,24.62
+102,Isha Verma,General Medicine,29,Female,Viral infection,18-09-2026,OutPatient,1200,cash,Discharged,22.66

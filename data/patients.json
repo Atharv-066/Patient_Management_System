@@ -1,0 +1,104 @@
+[
+    {
+        "info": {
+            "name": "Aarav Sharma",
+            "department": "Cardiology",
+            "age": 45,
+            "gender": "Male",
+            "address": "Nagpur",
+            "contact": "9876543210"
+        },
+        "identification": {
+            "patient_id": 101,
+            "aadhaar": "123456789012",
+            "insurance_id": 501
+        },
+        "history": {
+            "past_illness": "Hypertension",
+            "surgeries": "None",
+            "allergies": "Penicillin",
+            "diabetes": "No",
+            "asthma": "No",
+            "chronic_diseases": "Hypertension"
+        },
+        "treatment": {
+            "medicines": "Aspirin",
+            "tests": "ECG",
+            "procedures": "Observation"
+        },
+        "visit": {
+            "visit_date": "15-09-2026",
+            "symptoms": "Chest discomfort",
+            "diagnosis": "gdsxf",
+            "attending_doctor": "Dr. Mehta",
+            "resident_doctor": "Dr. Patil"
+        },
+        "vitals": {
+            "temperature": 37.1,
+            "weight": 72,
+            "height": 171,
+            "pulse": 78,
+            "blood_pressure": "128/82",
+            "respiratory_rate": 16
+        },
+        "billing": {
+            "charges": 8500,
+            "payment_method": "upi",
+            "insurance_claim": "Pending",
+            "discharge_status": "Admitted"
+        },
+        "patient_type": "InPatient",
+        "created_at": "2026-09-27T11:43:12"
+    },
+    {
+        "info": {
+            "name": "Isha Verma",
+            "department": "General Medicine",
+            "age": 29,
+            "gender": "Female",
+            "address": "Amravati",
+            "contact": "9123456780"
+        },
+        "identification": {
+            "patient_id": 102,
+            "aadhaar": "987654321098",
+            "insurance_id": 502
+        },
+        "history": {
+            "past_illness": "None",
+            "surgeries": "None",
+            "allergies": "None",
+            "diabetes": "No",
+            "asthma": "No",
+            "chronic_diseases": "None"
+        },
+        "treatment": {
+            "medicines": "Paracetamol",
+            "tests": "CBC",
+            "procedures": "None"
+        },
+        "visit": {
+            "visit_date": "18-09-2026",
+            "symptoms": "Fever",
+            "diagnosis": "Viral infection",
+            "attending_doctor": "Dr. Kulkarni",
+            "resident_doctor": "Dr. Joshi"
+        },
+        "vitals": {
+            "temperature": 38.0,
+            "weight": 58,
+            "height": 160,
+            "pulse": 84,
+            "blood_pressure": "118/76",
+            "respiratory_rate": 18
+        },
+        "billing": {
+            "charges": 1200,
+            "payment_method": "cash",
+            "insurance_claim": "Not Required",
+            "discharge_status": "Discharged"
+        },
+        "patient_type": "OutPatient",
+        "created_at": "2026-09-27T11:43:12"
+    }
+]

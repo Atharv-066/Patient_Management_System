@@ -1,0 +1,22 @@
+[
+  {
+    "case_id": 1001,
+    "created_at": "2026-09-28T15:21:59",
+    "main_symptom": "headache",
+    "symptom_category": "Headache",
+    "answers": {
+      "When did it start?": "today",
+      "Severity (0-10)": 5,
+      "Pattern": "it is not constant",
+      "What makes it worse?": "none",
+      "What makes it better?": "none",
+      "Previous episode": "yes",
+      "Location": "temporal area",
+      "Quality": "pressure",
+      "Nausea": "no",
+      "Light sensitivity": "no",
+      "Vision changes": "no",
+      "Urgent warning symptoms": "No obvious urgent warning reported"
+    }
+  }
+]
